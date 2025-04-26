@@ -6,21 +6,21 @@
         "id": "rewardedPack1",
         "videoURL": "https://github.com/Agram56/In_house_ads/raw/main/Vid_img_files/last_stickman_10s.mp4",
         "imageURL": "https://raw.githubusercontent.com/Agram56/In_house_ads/main/Vid_img_files/last_stickman_inter_1.png",
-        "webURL": "https://www.amazon.com",
+        "webURL": "www.amazon.com",
         "priority": 1
       },
       {
         "id": "rewardedPack2",
         "videoURL": "https://github.com/Agram56/In_house_ads/raw/refs/heads/main/Vid_img_files/Attack_Hole_V02.mp4",
         "imageURL": "https://raw.githubusercontent.com/zahaghokagy/test/refs/heads/main/attackHolAD23.png",
-        "webURL": "https://www.google.com",
+        "webURL": "www.google.com",
         "priority": 2
       },
       {
         "id": "rewardedPack3",
         "videoURL": "https://github.com/Agram56/In_house_ads/raw/refs/heads/main/Vid_img_files/Build_crowd_AD_01.mp4",
         "imageURL": "https://raw.githubusercontent.com/Agram56/In_house_ads/main/Vid_img_files/build_crowd_inter_01.png",
-        "webURL": "https://www.amazon.com",
+        "webURL": "www.amazon.com",
         "priority": 3
       }
     ]
